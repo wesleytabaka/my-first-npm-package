@@ -1,0 +1,16 @@
+{
+  "name": "@wesleytabaka/my-first-npm-package",
+  "version": "1.0.0",
+  "description": "A dummy package to test publishing on npm",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "cd dist && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wesley Tabaka <wesley@wesleytabaka.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
