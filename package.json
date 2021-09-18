@@ -1,6 +1,6 @@
 {
   "name": "wesleytabaka-my-first-npm-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A dummy package to test publishing on npm",
   "main": "dist/index.js",
   "scripts": {
